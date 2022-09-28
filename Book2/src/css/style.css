@@ -1,0 +1,165 @@
+* {
+    box-sizing: border-box;
+}
+
+.main-image img {
+    margin-top: 160px;
+    margin-left: 102px;
+}
+
+.main-headline {
+    font-size: 48px;
+    display: block;
+    margin-top: 136px;
+}
+
+.main {
+    display: flex;
+}
+
+.main-subheadline {
+    display: block;
+    margin-top: 23px;
+    font-size: 30px;
+}
+
+.main-text {
+    width: 50%;
+    margin-left: 27px;
+}
+
+.main-desc {
+    width: 521px;
+    height: 95px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.price {
+    font-size: 48px;
+    font-weight: 50;
+    color: #313131;
+}
+
+.buttons {
+    margin-top: 77px;
+}
+
+.btn {
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 6px;
+}
+
+.white {
+    color: rgba(69, 114, 215, 1);
+    background-color: #fff;
+    padding: 27px 75px 25px 75px;
+    border: 2px solid rgba(69, 114, 215, 1)blue;
+    outline: 2px solid rgba(69, 114, 215, 1);
+}
+
+.blue {
+    background-color: rgba(69, 114, 215, 1);
+    margin-right: 36px;
+    padding: 24px 68px 24px 68px;
+    font-size: 24px;
+}
+
+.shipping {
+    margin-top: 227px;
+    background-color: #F2F2F2;
+    height: 410px;
+}
+
+.ship-headtext {
+    font-size: 30px;
+    text-align: center;
+    padding-top: 90px;
+    margin-bottom: -90px;
+}
+
+.ship-wrap {
+    display: flex;
+    margin-top: 203px;
+    margin-bottom: 105px;
+    justify-content: space-evenly;
+}
+
+.ship-item1 span {
+    display: block;
+    text-align: center;
+    justify-content: space-evenly;
+    width: 112px;
+    color: #333333;
+    font-size: 18px;
+}
+
+.ship-item2 span {
+    display: block;
+    text-align: center;
+    justify-content: space-evenly;
+    width: 215px;
+    color: #333333;
+    font-size: 18px;
+}
+
+.ship-item3 span {
+    display: block;
+    text-align: center;
+    justify-content: space-evenly;
+    width: 143px;
+    color: #333333;
+    font-size: 18px;
+}
+
+.ship-item4 span {
+    display: block;
+    text-align: center;
+    justify-content: space-evenly;
+    width: 171px;
+    color: #333333;
+    font-size: 18px;
+}
+
+.ship-item1 img {
+    margin-bottom: 13px;
+    margin-left: 24px;
+}
+
+.ship-item2 img {
+    margin-bottom: 21px;
+    margin-left: 76px;
+}
+
+.ship-item3 img {
+    margin-bottom: 13px;
+    margin-left: 40px;
+}
+
+.ship-item4 img {
+    margin-bottom: 13px;
+    margin-left: 60px;
+}
+
+.bought-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 180px;
+}
+
+.bought-text {
+    font-size: 30px;
+    text-align: center;
+    padding-top: 90px;
+    margin-bottom: -90px;
+}
+
+.bought-people img {
+    width: 250px;
+    height: 250px;
+    justify-content: space-between;
+}
